@@ -1,0 +1,7 @@
+# data.yaml
+train: E:\\desk\\face_dataset\\train\\images
+val: E:\\desk\\face_dataset\\val\\images
+
+
+nc: 1  # 类别数量，例如 COCO 数据集有 80 类
+names: ['face']  # 类别名称
